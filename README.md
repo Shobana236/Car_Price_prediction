@@ -1,7 +1,8 @@
 # ML
 ## Projects
 
-Final project 1 - guvi
+Final project 1 - Car_Price_Prediction (Guvi)
+
 Dataset - cars_price.csv
 
 Tasks :
